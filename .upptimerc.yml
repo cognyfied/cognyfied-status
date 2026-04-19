@@ -3,9 +3,9 @@ repo: cognyfied-status
 
 sites:
   - name: Cognyfied App
-    url: https://app.cognyfied.com
+    url: https://www.cognyfied.com
   - name: Cognyfied API
-    url: https://app.cognyfied.com/health
+    url: https://www.cognyfied.com/health
 
 status-website:
   cname: status.cognyfied.com
