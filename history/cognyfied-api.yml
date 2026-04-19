@@ -1,7 +1,7 @@
-url: https://www.cognyfied.com/health
-status: down
-code: 401
-responseTime: 150
-lastUpdated: 2026-04-19T02:26:12.048Z
+url: https://api.cognyfied.com/health
+status: up
+code: 200
+responseTime: 739
+lastUpdated: 2026-04-19T03:06:21.212Z
 startTime: 2026-04-19T02:19:54.166Z
 generator: Upptime <https://github.com/upptime/upptime>
