@@ -4,8 +4,11 @@ repo: cognyfied-status
 sites:
   - name: Cognyfied App
     url: https://www.cognyfied.com
+    expectedStatusCodes:
+      - 200
+      - 401
   - name: Cognyfied API
-    url: https://www.cognyfied.com/health
+    url: https://api.cognyfied.com/health
 
 status-website:
   cname: status.cognyfied.com
